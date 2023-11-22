@@ -1,0 +1,12 @@
+img {
+    border : 5px hidden #000000;
+}
+
+.card{
+    margin: 10px;
+}
+
+p,h1,h2,h3,h4,div,li{
+    color: aliceblue;
+
+}
